@@ -1,0 +1,27 @@
+.paragraph{
+    border: 10px ridge #0000FF;
+    background-color: #8000f0;
+    padding: 40px
+
+}
+#p1{
+    border: 10px ridge #ffffff;
+    background-color: #f000f0;
+
+}
+#p2{
+    border: 10px ridge #0000F0;
+    background-color: #00FF00;
+}
+.head1{
+    border: 50px ridge #000FF0
+}
+.head2{
+    border: 1px ridge #0000F0;
+    background-color: #00FF00;
+}
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
